@@ -1,6 +1,5 @@
 # Aigis Over Will
 
-> Release preparation: the three ZIP files have not been uploaded yet. Download and one-click links below will become available after release `v1.0.0` is published.
 
 Play as Aigis from Persona 3 Reload / Episode Aigis in Metaphor: ReFantazio. Three separate Reloaded-II mods are collected here; the voice and outfit add-ons require the base model mod.
 
