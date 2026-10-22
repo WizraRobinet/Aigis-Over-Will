@@ -1,0 +1,3 @@
+2caa4609e24becc2fcfa63eb08c0f2037f8e5295058a228a02c6f59e923e9e04  Aigis-Over-Will.zip
+41fa71b6341b259ccabebbf5dbb2ed6841a38904a77e3e8b47375a04f2593634  Aigis-English-Voices.zip
+0d8daee8c9ae12a594c85c1333026fe5848134237db1abb156e95a419036f124  Aigis-Combat-Gear.zip
