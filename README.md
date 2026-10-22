@@ -7,11 +7,32 @@ Play as Aigis from Persona 3 Reload / Episode Aigis in Metaphor: ReFantazio. Thr
 
 | Mod | Description | Download |
 | --- | --- | --- |
-| Aigis Over Will | Aigis model replacement with field and battle support, movement transitions and the Episode Aigis field sprint. | [ZIP](https://github.com/WizraRobinet/Aigis-Over-Will/releases/download/v1.0.0/Aigis-Over-Will.zip) |
-| English Voices | Optional English overworld and battle voice replacement, with matched volume and combo-finisher routing. | [ZIP](https://github.com/WizraRobinet/Aigis-Over-Will/releases/download/v1.0.0/Aigis-English-Voices.zip) |
-| Episode Aigis Combat Gear | Optional Combat Gear outfit replacing the protagonist Gekkoukan High School Uniform in the overworld and battles. | [ZIP](https://github.com/WizraRobinet/Aigis-Over-Will/releases/download/v1.0.0/Aigis-Combat-Gear.zip) |
+| Aigis Over Will | Aigis model replacement with field and battle support, movement transitions and the Episode Aigis field sprint. | [ZIP](https://github.com/WizraRobinet/Aigis-Over-Will/releases/download/Metaphor/Aigis-Over-Will.zip) |
+| English Voices | Optional English overworld and battle voice replacement, with matched volume and combo-finisher routing. | [ZIP](https://github.com/WizraRobinet/Aigis-Over-Will/releases/download/Metaphor/Aigis-English-Voices.zip) |
+| Episode Aigis Combat Gear | Optional Combat Gear outfit replacing the protagonist Gekkoukan High School Uniform in the overworld and battles. | [ZIP](https://github.com/WizraRobinet/Aigis-Over-Will/releases/download/Metaphor/Aigis-Combat-Gear.zip) |
 
 For one-click installation, visit the [installation page](https://wizrarobinet.github.io/Aigis-Over-Will/). GitHub README pages may filter custom `r2:` links.
+
+## Install directly with Reloaded-II
+
+Open the [one-click installation page](https://wizrarobinet.github.io/Aigis-Over-Will/) and choose **Install with Reloaded-II**. Reloaded-II must already be installed; allow your browser to open it.
+
+Reloaded-II uses `r2:` install links. If GitHub filters the clickable links, copy a line below into your browser's address bar:
+
+**Base model**
+```text
+r2:https://github.com/WizraRobinet/Aigis-Over-Will/releases/download/Metaphor/Aigis-Over-Will.zip
+```
+
+**English voices** — install the base model first
+```text
+r2:https://github.com/WizraRobinet/Aigis-Over-Will/releases/download/Metaphor/Aigis-English-Voices.zip
+```
+
+**Combat Gear** — requires the base model and Gekkoukan DLC outfit
+```text
+r2:https://github.com/WizraRobinet/Aigis-Over-Will/releases/download/Metaphor/Aigis-Combat-Gear.zip
+```
 
 ## Requirements and installation
 
